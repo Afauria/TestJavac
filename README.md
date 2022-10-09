@@ -1,0 +1,1 @@
+Java编译和运行示例程序。见[Java编译和运行命令](https://blog.afauria.xyz/2022/04/14/note-2022-04-14-Java%E7%BC%96%E8%AF%91%E5%92%8C%E8%BF%90%E8%A1%8C%E5%91%BD%E4%BB%A4/)
